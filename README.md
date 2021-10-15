@@ -17,6 +17,7 @@
 
   <p align="center">
    Watchbot est un outil d'analyse et traitement des données d'objets connectés (montre connectée) en temps réel, ayant pour but de fournir des réponses à des questions de          l'utilisateur grâce à des graphiques. Cette interaction avec l'utilisateur se fera grâce à un chatbot intelligent qui saura déterminer ce que l'utilisateur recherche afin de    lui apporter les meilleures informations possibles.<br />
+    <img src="Projet/WatchBot/Documentation/archi.png" alt="Archi" height="300">
     <br />
     <a href="https://github.com/Amuthu98/Projet_Annuel_5IABD/issues">Report Bug</a>
     ·
