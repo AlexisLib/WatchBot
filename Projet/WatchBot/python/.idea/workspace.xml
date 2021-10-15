@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44f30a54-1181-4590-b308-546e37213f48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Traitement_de_donnees/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Traitement_de_donnees/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Watchbot_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/Watchbot_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/classes.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/création_intents.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/intents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_util.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/interface_util.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/words.pkl" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="kGWbpkXU" />
+  </component>
+  <component name="ProjectId" id="1sB4Fz6um2wosgdAYCjtRtu0Gn4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Watchbot_response" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Watchbot_response.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Watchbot_response" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
